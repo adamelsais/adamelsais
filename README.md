@@ -15,7 +15,7 @@ Some of my hobbies (besides my professions) are:
 
 #### Current Projects
 <li> Space Invader's Game (Python) </li>
-<li> Personal Website</li>
+<li> Personal Website (HTML/CSS/JS)</li>
 
 #### Past Projects
 <li> Password Manager (Python) </li>
