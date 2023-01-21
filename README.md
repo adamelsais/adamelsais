@@ -23,12 +23,6 @@ Some of my hobbies (besides my professions) are:
 <li> Space Invader's Game (Dr. Racket) </li>
 <li> "Wordle" Solver (SML) </li>
 
-#### 🌱 I’m currently learning...
-<li>HTML/CSS
-<li>JavaScript
-<li>Git
-<li> GoPro 8 Functionality</li>
-
 ### 🧰 Languages and Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -41,6 +35,12 @@ Some of my hobbies (besides my professions) are:
 <img align="left" alt="Dr.Racket" width="30px" style="padding-right:10px;" src="https://smlnj.org/images/smlnj-logo.png" />
 
 #
+
+#### 🌱 I’m currently learning...
+<li>HTML/CSS
+<li>JavaScript
+<li>Git
+<li> GoPro 8 Functionality</li>
 
 ### 📊 Stats
 
