@@ -48,21 +48,10 @@ Some of my hobbies (besides my professions) are:
 #
 [website]: https://fkcodes.com
 ### 📫 How to reach me:
-Email: elsaisadam@gmail.com
+<p>Email: elsaisadam@gmail.com</p>
+<img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+<a href = "https://www.linkedin.com/in/adam-elsais-14a156201/"> My Profile </a> 
 
-LinkedIn: <a href = "linkedin.com/in/adam-elsais-14a156201/">
-<!--
-**adamelsais/adamelsais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 <details>
  <summary><h3>👨🏻‍💻 Adam's Coding Journey</h3></summary>
     I started my coding journey my freshman year of high school without a clue of what I wanted to do with my future. My first experience was learning how to design and program games through code.org. The simple drag and drop mechanics allowed me to quickly understand basic concepts and saw how the world around us was based on mathematics and logic--which I found fascinating. Unfortunately, it took until my senior year of high school to take another computer science course, where I found my passion for coding again. That is when I ultimately decided that I will pursue a degree in Computer Science while following my own passions for playing football at the collegiate level. I am in my second year, 4th term, of university where I have been learning an extensive number of topics from data structures to time analysis. Recently, I have been working on my own personal portfolio in order to heighten my resume and in return hopefully earn an internship for this summer. Looking forward to what this year brings!
