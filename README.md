@@ -15,6 +15,7 @@ Some of my hobbies (besides my professions) are:
 
 #### Current Projects
 <li> Space Invader's Game (Python) </li>
+<li> Instagram Data Scraper (Python) </li>
 <li> Personal Website (HTML/CSS/JS)</li>
 
 ####  <a href = "https://github.com/adamelsais/projects" >Past Projects</a>
