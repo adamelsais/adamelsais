@@ -17,7 +17,7 @@ Some of my hobbies (besides my professions) are:
 <li> Space Invader's Game (Python) </li>
 <li> Personal Website (HTML/CSS/JS)</li>
 
-#### Past Projects
+####  <a href = "https://github.com/adamelsais/projects" >Past Projects</a>
 <li> Password Manager (Python) </li>
 <li> Crazy 8 Card Game (Python) </li>
 <li> Space Invader's Game (Dr. Racket) </li>
@@ -46,7 +46,7 @@ Some of my hobbies (besides my professions) are:
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamelsais&show_icons=true&theme=gruvbox)
 #
-[website]: https://fkcodes.com
+
 ### 📫 How to reach me:
 <p>Email: elsaisadam@gmail.com</p>
 <img align="left" alt="LinkedIn" width="25px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
