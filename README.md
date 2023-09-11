@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Adam Elsais 🏈
 
-**`Student (Developer/Filmmaker)`**
+**`Student (Developer/Athlete)`**
 ### About Me! 
 I'm a CS student-athlete at Wesleyan University with a keen interest in web-development, software development, and app development. All coding projects are inspired by my personal interests in the pursuit of strengthening and widening my skills. In the past year, I have grown to enjoy capturing life through my lens. I plan to expand my creative portfolio this year by stepping out of my comfort zone in places I have not visited before.
 
